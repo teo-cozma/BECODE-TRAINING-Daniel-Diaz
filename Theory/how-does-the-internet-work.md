@@ -21,4 +21,4 @@ IP addresses (like *72.14.205.100*) are how computers connected to the internet 
 2. Your ISP forwards the address to one or several routers until it reachs the Google server
 3. The Google server fetches the information you are requesting and sends it back through the routers
 
-Since your computer has its own unique ISP address, it does not matter how many computers are connected to the same ISP. The information always reachs the right address.
+Since your computer has its own unique ISP address, it does not matter how many computers are connected to the same ISP. The information always reachs the right address!
